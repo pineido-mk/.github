@@ -7,3 +7,8 @@ Pineido Studio: https://pineido.com/pocket-ai/
 resellebee: https://resellebee.com
 
 Saucy Sorcery: https://pineido.com/products/saucy-sorcery/
+
+
+Saucy Sorcery on Google Play: https://play.google.com/store/apps/details?id=com.saucysourcery.game
+
+Saucy Sorcery free Linux demo, direct download: https://pineido.com/go/saucy-sorcery/linux
