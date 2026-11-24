@@ -12,3 +12,11 @@ Saucy Sorcery: https://pineido.com/products/saucy-sorcery/
 Saucy Sorcery on Google Play: https://play.google.com/store/apps/details?id=com.saucysourcery.game
 
 Saucy Sorcery free Linux demo, direct download: https://pineido.com/go/saucy-sorcery/linux
+
+DeSlop: https://pineido.com/products/deslop/
+
+DeSlop on the Chrome Web Store: https://chromewebstore.google.com/detail/deslop-ai-slop-filter-for/ceeofbgdnlfkbmejalfggfkigjmkdkib
+
+Pinealizer (launching soon): https://pinealizer.com
+
+PineMogul: https://pinemogul.com
